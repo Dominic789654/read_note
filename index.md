@@ -4,13 +4,13 @@
 
 ## 统计
 
-- 总文章数：0
+- 总文章数：1
 - 分类数：10
 
 ## 按分类浏览
 
 ### LLM - 大语言模型
-暂无文章
+- [PAPER]_001_Do_Not_Waste_Your_Rollouts.md - Do Not Waste Your Rollouts: Recycling Search Experience for Efficient Test-Time Scaling (2025-02-01)
 
 ### ARCH - 模型架构
 暂无文章
@@ -41,4 +41,6 @@
 
 ## 最近阅读
 
-暂无文章
+1. **[PAPER]_001_Do_Not_Waste_Your_Rollouts.md** (2025-02-01)
+   - 分类: LLM.EVAL
+   - 主题: 测试时搜索经验回收
