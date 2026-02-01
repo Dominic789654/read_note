@@ -4,7 +4,7 @@
 
 ## 统计
 
-- 总文章数：6
+- 总文章数：7
 - 分类数：10
 
 ## 按分类浏览
@@ -14,6 +14,7 @@
 - [PAPER]_002_Scaling_Lesssons_From_Efficiency_Benchmarks.md - Scaling Lessons From Efficiency Benchmarks: Economy of Scale (2025-02-01)
 - [PAPER]_003_CtrlCoT_Dual_Granularity_CoT_Compression.md - CtrlCoT: Dual-Granularity Chain-of-Thought Compression for Controllable Reasoning (2025-02-01)
 - [PAPER]_004_DeepPrune_Parallel_Scaling_Inter-trace_Redundancy.md - DeepPrune: Parallel Scaling without Inter-trace Redundancy (2025-02-01)
+- [PAPER]_005_Multiplex_Thinking_Token-wise_Branch-and-Merge.md - Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge (2025-02-01)
 
 ### ARCH - 模型架构
 暂无文章
@@ -44,21 +45,24 @@
 
 ## 最近阅读
 
-1. **[AGENT]_001_MemEvolve_Meta_Evolution_Agent_Memory_Systems.md** (2025-02-01)
+1. **[PAPER]_005_Multiplex_Thinking_Token-wise_Branch-and-Merge.md** (2025-02-01)
+   - 分类: LLM.EVAL
+   - 主题: 多路复用思维 - 软推理与分支合并
+2. **[AGENT]_001_MemEvolve_Meta_Evolution_Agent_Memory_Systems.md** (2025-02-01)
    - 分类: AGENT
    - 主题: Agent 内存系统的元进化
-2. **[PAPER]_004_DeepPrune_Parallel_Scaling_Inter-trace_Redundancy.md** (2025-02-01)
+3. **[PAPER]_004_DeepPrune_Parallel_Scaling_Inter-trace_Redundancy.md** (2025-02-01)
    - 分类: LLM.EVAL
    - 主题: 并行推理的轨迹间冗余消除
-3. **[PAPER]_003_CtrlCoT_Dual_Granularity_CoT_Compression.md** (2025-02-01)
+4. **[PAPER]_003_CtrlCoT_Dual_Granularity_CoT_Compression.md** (2025-02-01)
    - 分类: LLM.EVAL
    - 主题: 双粒度 CoT 压缩
-4. **[BLOG]_001_Optimizing_GLM4_MoE_for_Production.md** (2025-02-01)
+5. **[BLOG]_001_Optimizing_GLM4_MoE_for_Production.md** (2025-02-01)
    - 分类: APP
    - 主题: GLM4-MoE 生产环境优化
-5. **[PAPER]_002_Scaling_Lesssons_From_Efficiency_Benchmarks.md** (2025-02-01)
+6. **[PAPER]_002_Scaling_Lesssons_From_Efficiency_Benchmarks.md** (2025-02-01)
    - 分类: TRAIN.PT
    - 主题: 模型缩放效率与训练时长权衡
-6. **[PAPER]_001_Do_Not_Waste_Your_Rollouts.md** (2025-02-01)
+7. **[PAPER]_001_Do_Not_Waste_Your_Rollouts.md** (2025-02-01)
    - 分类: LLM.EVAL
    - 主题: 测试时搜索经验回收
