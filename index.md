@@ -4,7 +4,7 @@
 
 ## 统计
 
-- 总文章数：10
+- 总文章数：11
 - 分类数：10
 
 ## 按分类浏览
@@ -16,6 +16,7 @@
 - [PAPER]_004_DeepPrune_Parallel_Scaling_Inter-trace_Redundancy.md - DeepPrune: Parallel Scaling without Inter-trace Redundancy (2025-02-01)
 - [PAPER]_005_Multiplex_Thinking_Token-wise_Branch-and-Merge.md - Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge (2025-02-01)
 - [PAPER]_006_SpecRC_Speculative_Decoding_Multi_Step_Reasoning.md - SpecRC: Accelerating Multi-Step Reasoning with Speculative Decoding (2025-02-01)
+- [LLM.EVAL]_001_RealMem_Benchmark_Memory_Driven_Interaction.md - RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction (2025-02-01)
 
 ### ARCH - 模型架构
 暂无文章
